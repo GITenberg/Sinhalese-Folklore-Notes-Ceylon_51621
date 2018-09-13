@@ -1,0 +1,24 @@
+_repo: Sinhalese-Folklore-Notes-Ceylon_51621
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Perera, Arthur A.
+    gutenberg_agent_id: '46493'
+    url: http://www.gutenberg.org/2009/agents/46493
+description: ''
+gutenberg_issued: '2016-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51621'
+  lccn: '21017316'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sri Lanka -- Social life and customs'
+- !lcsh 'Folklore -- Sri Lanka'
+- !lcc 'GR'
+- GITenberg
+title: Sinhalese Folklore Notes, Ceylon
+url: http://www.gutenberg.org/ebooks/51621
