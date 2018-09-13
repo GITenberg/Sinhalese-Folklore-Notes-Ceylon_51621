@@ -1,11 +1,16 @@
 _repo: Sinhalese-Folklore-Notes-Ceylon_51621
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51621-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Perera, Arthur A.
     gutenberg_agent_id: '46493'
     url: http://www.gutenberg.org/2009/agents/46493
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51621#Sinhalese-Folklore-Notes-Ceylon
 gutenberg_issued: '2016-04-01'
 gutenberg_type: Text
 identifiers:
